@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Agelikhp
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript, CSS, HTML and Java
-- 💞️ I’m looking to collaborate on various level of production and development, never stop learning.
+- 💞️ I’m looking to collaborate on various levels of production and development & to never stop learning & growing.
 - 📫 How to reach me via email
-- 😄 Pronouns: ...
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: I am a visual artist starting learning from zero programming (:
 
 <!---
